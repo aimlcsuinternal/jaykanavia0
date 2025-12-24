@@ -2,7 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jay_Kanavia-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/jaykanavia)
 [![Email](https://img.shields.io/badge/Email-jaykanavia%40gmail.com-red?style=flat-square&logo=gmail)](mailto:jaykanavia@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91_9723461100-green?style=flat-square&logo=whatsapp)](tel:+919723461100)
 
 ## 💫 About Me
 
